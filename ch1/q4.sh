@@ -5,7 +5,7 @@ b=20
 c=a
 b=c
 
-# Value of b = 15
-# Value of c = 15
+# Value of b = 'c'
+# Value of c = 'a'
 echo $b
 echo $c
